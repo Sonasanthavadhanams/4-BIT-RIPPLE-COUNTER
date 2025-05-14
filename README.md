@@ -28,7 +28,15 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
 
 **PROGRAM**
 ```
@@ -49,11 +57,13 @@ endmodule
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 
-![Screenshot 2025-04-25 150512](https://github.com/user-attachments/assets/d1a862eb-39d3-4f68-95d8-f332dbd626a5)
+![Screenshot 2025-05-14 110003](https://github.com/user-attachments/assets/78018b4c-d9a0-414d-9655-c3262e5ffa76)
+
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
 
-![Screenshot 2025-04-25 151619](https://github.com/user-attachments/assets/54e789e1-885e-4101-90b9-9b162406a5bd)
+![Screenshot 2025-05-14 110627](https://github.com/user-attachments/assets/7e3abff0-8c92-4620-8fa5-4bce5f3f4c80)
+
 
 **RESULTS**
 
